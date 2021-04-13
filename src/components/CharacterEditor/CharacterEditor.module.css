@@ -33,6 +33,14 @@
   width: 35%;
   top: 128px;
   right: 0;
+
+  /* solution
+  position: fixed;
+  top: 15%;
+  left: 60%;
+  bottom: 5%;
+  min-height: 500px;
+  */
 }
 
 .controlColumn {
